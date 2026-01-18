@@ -1,9 +1,3 @@
-//
-//  ContactViewController.swift
-//  contactList
-//
-//  Created by Кенжебаева Аиша on 06.11.2025.
-//
 
 import UIKit
 

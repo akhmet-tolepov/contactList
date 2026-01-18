@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  contactList
-//
-//  Created by Кенжебаева Аиша on 05.11.2025.
-//
 
 import UIKit
 

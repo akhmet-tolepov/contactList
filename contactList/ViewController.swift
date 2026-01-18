@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  contactList
-//
-//  Created by Кенжебаева Аиша on 05.11.2025.
-//
+
 
 import UIKit
 
@@ -37,15 +32,6 @@ class ViewController: UIViewController {
         } catch {
             print("unable to encode \(error)")
         }
-//        if let contactsArray = UserDefaults.standard.array(forKey: "contactsArray") as? [String] {
-//            var array = contactsArray
-//            array.append(name)
-//            
-//            
-//            UserDefaults.standard.setValue(array, forKey: "contactsArray")
-//        } else {
-//            UserDefaults.standard.setValue([name], forKey: "contactsArray")
-//        }
         
         nameField.text = ""
         surnameField.text = ""
